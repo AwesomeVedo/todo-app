@@ -46,4 +46,5 @@ input {
     border: 1px solid #acacac;
     border-radius: 5px;
     color: var(--black);
+    width: 100%;
 }
